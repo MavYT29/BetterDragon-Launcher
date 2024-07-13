@@ -7,9 +7,6 @@
 <p align="center">
   <a href="https://discord.gg/E5sHNCQGPe">
     <img src="https://img.shields.io/discord/1173195579736723496?color=brightgreen&logo=discord">
-  </a>
-  <a href="[https://github.com/MavYT29/Crafter-Launcher/releases](https://github.com/MavYT29/BetterDragon-Launcher/releases)">
-    <img src="[https://img.shields.io/github/v/release/MavYT29/Crafter-Launcher?color=brightgreen&include_prereleases](https://github.com/user-attachments/assets/b9e349b1-fd39-44b6-8360-c27f013d1cb6)">
 </p>
   
 <p align="center">
