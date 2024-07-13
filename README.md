@@ -59,6 +59,7 @@ Keep your antivirus on for safety, only disable it briefly when needed!
 
 ## Useful Links:
 - Discord: [KrazzyPH Community Discord Server](https://discord.gg/E5sHNCQGPe)
+- Big thank you to YSS and the admins, and here is their Discord: [YSS Community Discord Server](https://discord.com/invite/yss)
 
 ## Don't Forget ⚠︎
 - I can't publish the source code of my Crafter Launcher yet, but I will release it soon.
