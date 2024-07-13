@@ -11,7 +11,7 @@
 </p>
   
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/009f74c8-9f09-448e-84eb-841ec38153bd" width="49%" />
+  <img src=https://github.com/user-attachments/assets/d8afbb3d-0050-4008-83c4-217d22fd8f61" width="49%" />
 </p>
 <h1 align="center">
   Preview Video
