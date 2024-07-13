@@ -7,10 +7,17 @@
 <p align="center">
   <a href="https://discord.gg/E5sHNCQGPe">
     <img src="https://img.shields.io/discord/1173195579736723496?color=brightgreen&logo=discord">
+  </a>
 </p>
   
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b98c231a-c114-4fb5-ace6-4a4c1a7eb143" width="49%" />
+</p>
+<h1 align="center">
+  Preview Video
+</h1>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Watch our tutorial on YouTube!</a>
 </p>
   
 
