@@ -17,7 +17,9 @@
   Preview Video
 </h1>
 <p align="center">
-  <a href="https://youtu.be/NaRsWahNe_w" target="_blank">Watch our tutorial on YouTube!</a>
+  <a href="https://www.youtube.com/watch?v=NaRsWahNe_w" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="49%" alt="Watch our video!"/>
+  </a>
 </p>
   
 
