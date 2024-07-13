@@ -21,7 +21,7 @@ Getting a "FindFirstFileW failed: error [00000002]" message? Your antivirus migh
 
  1. If the scan is clean, it should work now.
 
-                                                                                                           Still Not Working?
+# Still Not Working?
 
 1. Add an exception: Tell your antivirus to ignore this specific file (check your antivirus's instructions on how to do this).
 2. Contact the software developer: They might know about the issue and have a solution.
