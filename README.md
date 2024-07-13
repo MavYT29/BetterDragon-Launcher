@@ -15,6 +15,8 @@
   
 
 
+
+
 ## ENCOUNTERING "FindFirstFileW failed" ERROR? FIX IT NOW 💣
 
 Getting a "FindFirstFileW failed: error [00000002]" message? Your antivirus might be blocking the file. Here's the fix:
