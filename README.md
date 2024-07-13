@@ -2,16 +2,16 @@
   BetterDragon
 </h1>
 <p align="center">  
- Easy to use for those who are having difficulty.
+  Easy to use for those who are having difficulty.
 </p>
 <p align="center">
   <a href="https://discord.gg/E5sHNCQGPe">
-    <img src="https://img.shields.io/discord/1173195579736723496?color=brightgreen&logo=discord">
+    <img src="https://img.shields.io/discord/1173195579736723496?color=brightgreen&logo=discord" alt="Discord Badge">
   </a>
 </p>
   
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/d8afbb3d-0050-4008-83c4-217d22fd8f61" width="49%" />
+  <img src="https://github.com/user-attachments/assets/d8afbb3d-0050-4008-83c4-217d22fd8f61" width="49%" alt="BetterDragon Image" />
 </p>
 <h1 align="center">
   Preview Video
@@ -21,7 +21,7 @@
     <img src="https://github.com/user-attachments/assets/03a857e6-5374-4c14-9c23-602ec0c2d173" width="49%" alt="Watch our video!"/>
   </a>
 </p>
-  
+
 
 
 
