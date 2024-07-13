@@ -11,8 +11,6 @@
   
 <p align="center">
   <img src="[https://github.com/MavYT29/Crafter-Launcher/assets/84601328/2381f53f-ce24-4041-9423-b1b63a711586](https://github.com/user-attachments/assets/ad273727-c71b-4dd0-b62f-57b96d967b8d)" width="49%" />
-
-
 </p>
   
 
