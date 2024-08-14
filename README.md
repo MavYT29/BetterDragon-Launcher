@@ -18,7 +18,7 @@
 </h1>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=cLPyU2kIe_U" target="_blank">
-    <img src="https://github.com/user-attachments/assets/03a857e6-5374-4c14-9c23-602ec0c2d173" width="49%" alt="Watch our video!"/>
+    <img src="https://github.com/user-attachments/assets/8f2c3e6e-b34b-4626-b2a6-3ef4343789fc" width="49%" alt="Watch our video!"/>
   </a>
 </p>
 
